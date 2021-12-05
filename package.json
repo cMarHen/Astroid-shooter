@@ -1,0 +1,18 @@
+{
+  "name": "astriod-shooter",
+  "version": "1.0.0",
+  "description": "Astroid shooter game",
+  "type": "module",
+  "browser": "js/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "2.6.14"
+  }
+}
