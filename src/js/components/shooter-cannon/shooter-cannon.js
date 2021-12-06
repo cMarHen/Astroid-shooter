@@ -22,18 +22,7 @@
         position: absolute;
      }
 
-     head {
-       background-color: inherit;
-       width: 14px;
-       height: 10px;
-     }
    </style>
-   <div id="head">
-   </div>
-   <div id="body">
-   </div>
-   <div id="bottom">
-   </div>
  `
  
  /*

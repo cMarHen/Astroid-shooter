@@ -18,7 +18,8 @@
        justify-content: center;
        align-items: center;
        height: 90vh;
-       width: 600px;
+       width: 70vw;
+       min-width: 400px;
        margin: 15px;
        padding: 6px;
        border: 1px solid black;
@@ -76,7 +77,7 @@
         this.astroidGame = this.shadowRoot.querySelector('astroid-field')
 
         this.playButton.addEventListener('click', event => {
-            this.astroidGame.startGame(5000)
+            this.astroidGame.startGame(6000)
         })
 
         
